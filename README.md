@@ -1,9 +1,7 @@
 ﻿# Vitalize-Gymnastics-Management-System
 
-# Vitalize – Gymnastics Management System
-
 Vitalize is a **PHP-based Gymnastics Management System** that allows fitness coaches to manage training programs and gymnasts to enroll, track attendance, and monitor skill development.  
-It provides a dashboard to **add, edit, delete, and view gymnastics programs**, along with enrolments and attendance tracking.
+It provides a dashboard to **add, edit, delete, and view gymnastics programs**, along with enrolments and attendance tracking. This was created as a assignment for systems development course at Boston City Campus.
 
 ---
 
@@ -40,6 +38,7 @@ vitalize/
 └── README.md # Project documentation
 
 ---
+
 ## 🛠️ Installation & Setup
 
 1. **Clone this repository:**
@@ -67,28 +66,30 @@ vitalize/
   -Open in your browser:
    http://localhost/vitalize/index.php
 
-💻 Tech Stack
+---
+
+💻 **Tech Stack**
 •Backend: PHP 8+
 •Frontend: HTML5, CSS3, JavaScript
 •Database: MySQL
 •Server: Apache (XAMPP/WAMP/LAMP)
 
-📸 Screenshots
+---
+
+📸 **Screenshots**
 <img width="940" height="411" alt="Image" src="https://github.com/user-attachments/assets/ddbadb60-c3b0-43bb-ba42-076ef72e5e90" />
-
 <img width="940" height="412" alt="Image" src="https://github.com/user-attachments/assets/d55333dd-60b0-4e2c-862d-3d09138c9ffe" />
-
 <img width="940" height="412" alt="Image" src="https://github.com/user-attachments/assets/f6cd107f-5d67-487e-bfd8-43b402e7b813" />
-
 <img width="940" height="303" alt="Image" src="https://github.com/user-attachments/assets/14003d8e-1f83-4b78-ba4d-742c5c7d7822" />
-
 <img width="940" height="410" alt="Image" src="https://github.com/user-attachments/assets/49860d02-f413-42aa-87ed-42503d213276" />
-
 <img width="940" height="412" alt="Image" src="https://github.com/user-attachments/assets/7a7f127e-e6c2-4edd-84bc-cd0b676d25f3" />
 
-👨‍💻 Author
+---
+
+👨‍💻 **Author**
 Developed by Khalipha Samela for a school project.✨
 Feel free to reach out with feedback or contributions!
+
 
 
 
