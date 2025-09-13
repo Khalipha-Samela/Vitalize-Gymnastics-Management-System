@@ -84,9 +84,12 @@ vitalize/
 
 <img width="940" height="410" alt="Image" src="https://github.com/user-attachments/assets/49860d02-f413-42aa-87ed-42503d213276" />
 
+<img width="940" height="412" alt="Image" src="https://github.com/user-attachments/assets/7a7f127e-e6c2-4edd-84bc-cd0b676d25f3" />
+
 👨‍💻 Author
 Developed by Khalipha Samela for a school project.✨
 Feel free to reach out with feedback or contributions!
 
-<img width="940" height="412" alt="Image" src="https://github.com/user-attachments/assets/7a7f127e-e6c2-4edd-84bc-cd0b676d25f3" />
+
+
 
